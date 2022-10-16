@@ -1,0 +1,60 @@
+[33mcommit 8495a1186c4116cdeff1f04218da370878e4829e[m[33m ([m[1;36mHEAD -> [m[1;32manotherone[m[33m, [m[1;31morigin/index1.txt[m[33m, [m[1;31morigin/anotherone[m[33m, [m[1;32mindex1.txt[m[33m, [m[1;32mhello-uganda[m[33m)[m
+Author: myfirstgithub2022 <115842885+myfirstgithub2022@users.noreply.github.com>
+Date:   Sat Oct 15 02:31:55 2022 +0300
+
+    Update index2.txt
+
+[33mcommit 6f2738633c4425b84e2be12a32f58e99f3b27205[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: myproject <aalvinfrank@gmail.com>
+Date:   Sat Oct 15 01:53:12 2022 +0300
+
+    updated index1.txt with new
+
+[33mcommit fd77f85537f7948146b0012d02b7794872f4eb03[m
+Author: myfirstgithub2022 <115842885+myfirstgithub2022@users.noreply.github.com>
+Date:   Sat Oct 15 01:47:21 2022 +0300
+
+    Update index2.txt
+
+[33mcommit 288eda8d141d8701591c3e25bb566bd2532f9155[m
+Author: myfirstgithub2022 <115842885+myfirstgithub2022@users.noreply.github.com>
+Date:   Sat Oct 15 01:23:12 2022 +0300
+
+    Update index2.txt
+
+[33mcommit 93424c8ee28b6a0000b6919f9293b8d1060d1661[m
+Merge: d7caaa0 98dec69
+Author: myproject <aalvinfrank@gmail.com>
+Date:   Thu Jun 9 06:03:36 2022 +0300
+
+    now mereged with hello-world
+
+[33mcommit d7caaa0622097e4562523d7c64789d06126beef5[m
+Author: myproject <aalvinfrank@gmail.com>
+Date:   Thu Jun 9 05:44:31 2022 +0300
+
+    updated index1.txt with emergency fix
+
+[33mcommit 98dec69d5273bb9d4e8eb7eadbfcf66f272ea9e2[m
+Author: myproject <aalvinfrank@gmail.com>
+Date:   Thu Jun 9 05:33:36 2022 +0300
+
+    added image to hello world
+
+[33mcommit c9586455b678b3d4d4506bd11a82fc929b19095a[m
+Author: myproject <aalvinfrank@gmail.com>
+Date:   Thu Jun 9 00:10:54 2022 +0300
+
+    all updated files
+
+[33mcommit 77c3112c8b88d6bfd6f0ba1b993cf4a06401ad4c[m
+Author: myproject <aalvinfrank@gmail.com>
+Date:   Thu Jun 9 00:05:15 2022 +0300
+
+    first file changes#
+
+[33mcommit 3328355408a5b141014f1e13f1d1a269f8bbf126[m
+Author: myproject <aalvinfrank@gmail.com>
+Date:   Wed Jun 8 23:59:10 2022 +0300
+
+    first coding with git
